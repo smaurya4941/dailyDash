@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-k0o0#8(#zm=y575(j!n-1utv(v2l-*ekdlx9-&v(fzptprv9%*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['daily-dash-gm54.vercel.app','localhost','127.0.0.1']
 
 
 # Application definition
